@@ -1,0 +1,13 @@
+{
+  "name": "shell-dads",
+  "version": "0.0.1",
+  "description": "Show NIST dads entries in shell",
+  "main": "index.js",
+  "repository": "https://github.com/avestura/shell-dads",
+  "author": "Avestura",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^24.8.2"
+  },
+  "type": "module"
+}
